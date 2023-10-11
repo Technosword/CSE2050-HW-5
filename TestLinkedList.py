@@ -112,7 +112,7 @@ class TestLinkedList(unittest.TestCase):
 
         # test
         self.assertEqual(LL.sum_all(), 45)
-
+# Test
     def test_reverse(self):
         """tests reverse method"""
         # Set up
